@@ -1,2 +1,5 @@
 # hello-world
-Well my first
+
+Hi guys!
+
+I am a person. I am 19 as of now.
